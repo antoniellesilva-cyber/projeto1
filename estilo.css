@@ -1,3 +1,10 @@
 body{
-    background-color: blueviolet;
+    background-color: rgb(226, 43, 202);
+    color:black
 }
+
+.cabecalho{
+     background-color:aqua;
+    text-align:center;
+    padding:30px;
+}  
