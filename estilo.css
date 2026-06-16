@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&display=swap');
 
 body{
-    background-color: rgb(226, 43, 202);
+    background-color: rgb(45, 57, 219);
     color:black;
     font-family: "Arimo", sans-serif;
 }
 
 
 .cabecalho{
-     background-color:aqua;
+     background-color:rgb(0, 132, 255);
     text-align:center;
     padding:30px;
 }  
